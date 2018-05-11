@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lauanys_Saga_Test02-01.unity
+  isLoaded: 1
+  isActive: 1
